@@ -4,3 +4,11 @@ var accountPassword = "12467"
 accountCity = "kashimpur"
 
 // accountId = 2 // not allowed
+
+accountEmail = "hc@hc.com"
+accountPassword = "21212121"
+accountCity = "rajshahi"
+
+console.log('accountId');
+
+console.table([accountId,accountEmail,accountPassword,accountCity])
